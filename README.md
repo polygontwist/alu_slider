@@ -27,6 +27,8 @@ Die Firmware die ich benutze ist https://github.com/MarlinFirmware/Marlin
 | 1/2/5/10 Stück 4.2-6.0 V Mini Micro Servo SG90 9g Mit 25cm Kabel f T-Rex 250 450 | 1 | 3,74  |
 | TMC2100 (2-Prusa, 2-Plotter) | 4 | 35,50  |
 
+Die Aluprofile hebe ich bei reichelt(https://www.reichelt.de/profil-40-offen-b-40x40-50cm-ms40-b40x40x50-p148184.html?GROUPID=7824&SEARCH=alu%2Bprofil%2B40&) bestellt.
+
 Dazu kommt ein Rumba-Mainbboard (war vorhanden) und diverse Lizen.
 
 Die Spezialteile habe ich mit Cinema4D konstruiert und per 3D-Druck hergestellt (siehe Ordner hardware).
