@@ -17,7 +17,7 @@ https://www.instagram.com/p/BdD_LmMDncK/
 Die Firmware die ich benutze ist https://github.com/MarlinFirmware/Marlin 
 
 ## Teileliste
-| Teil              | Anzahl | Kostengesammt € | 
+| Teil              | Anzahl | Kosten in € | 
 |--------------------------------|--------|---------|
 | Profil 40+ 40x40x500 / FlexLink TCBB 3×40 3030/J924184619950  | 3 | 26,97 |
 | Verbinder Eck 40+  | 3 | 29,70  |
