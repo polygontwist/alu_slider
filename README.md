@@ -31,4 +31,4 @@ Die Aluprofile hebe ich bei Reichelt (https://www.reichelt.de/profilsystem-20--c
 
 Dazu kommt ein Rumba-Mainbboard (war vorhanden) und diverse Lizen.
 
-Die Spezialteile habe ich mit Cinema4D konstruiert und per 3D-Druck hergestellt (siehe Ordner hardware).
+Die Spezialteile (im ersten Bild grün) habe ich mit Cinema4D konstruiert und per 3D-Druck hergestellt (siehe Ordner hardware).
